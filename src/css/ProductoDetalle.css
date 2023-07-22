@@ -1,0 +1,33 @@
+.container2{
+    background-image: url(https://th.bing.com/th/id/R.53b0f2bbacd75e4dfc3d240ef3f80594?rik=V945xC1WZ59rCw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-QmaQ08cXm14%2fTisUcM8NvKI%2fAAAAAAAAC0w%2f-Z_UJj3V8J0%2fs1600%2falgumas-linhas-em-tons-azuis-imagens-imagem-de-fundo-wallpaper-para-pc-computador-tela-gratis-ambiente-de-trabalho.jpg&ehk=VTtdPFix5Kf42m117n0aVY7DnhhrX0P4YDlMczSHczs%3d&risl=&pid=ImgRaw&r=0);
+    flex-direction: column;
+    width: 100%;
+    height: 800px;
+    text-align: center;
+}
+
+.tituloProducto{
+    font-size: 35px;
+    font-family: Courier;
+    color:beige;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+.precio{
+    font-size: 20px;
+    color: beige;
+}
+
+.descripcion{
+    color: beige;
+    font-size: 25px;
+    font-family: Courier;
+    padding: 60px;
+}
+
+.imagenPro{
+    width: 300px;
+    border: 2px solid rgb(9, 9, 9);
+    box-shadow: 2px 2px 20px rgb(173, 230, 230);
+}

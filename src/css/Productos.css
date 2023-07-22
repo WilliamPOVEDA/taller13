@@ -1,0 +1,64 @@
+.container1 {
+    position: absolute;
+    width: 100%;
+    height: 700px;
+    margin: 0 auto;
+    background-image: url(https://th.bing.com/th/id/R.53b0f2bbacd75e4dfc3d240ef3f80594?rik=V945xC1WZ59rCw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-QmaQ08cXm14%2fTisUcM8NvKI%2fAAAAAAAAC0w%2f-Z_UJj3V8J0%2fs1600%2falgumas-linhas-em-tons-azuis-imagens-imagem-de-fundo-wallpaper-para-pc-computador-tela-gratis-ambiente-de-trabalho.jpg&ehk=VTtdPFix5Kf42m117n0aVY7DnhhrX0P4YDlMczSHczs%3d&risl=&pid=ImgRaw&r=0);
+}
+
+.titulop{
+    color: blanchedalmond;
+    font-size: 50px;
+    font-family:Courier;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(131, 69, 232);
+}
+
+.categorias{
+    display: flex;
+    justify-content: space-around;
+}
+
+.buscar1{
+    color: beige;
+    font-size: 25px;
+}
+.buscar2{
+    border: 3px solid rgb(9, 9, 9);
+    width: 150px;
+}
+
+.cardContainer1 {
+    display: flex;
+    margin: 40px;
+    justify-content: space-between;
+}
+
+.card1 {
+    width: 18%;
+    margin-bottom: 20px;
+    border: 3px solid #100f0f;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color:aqua;
+    box-shadow: 5px 5px 8px rgb(31, 125, 153);
+}
+
+.imagen1 {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.enlace{
+    color: rgb(41, 5, 82);
+    text-decoration-line: none;
+    font-family:Calibri;
+}
+
+.enlace:hover{
+    color: rgb(94, 121, 240);
+    text-shadow: 2px 2px 10px rgb(94, 121, 240);
+}
