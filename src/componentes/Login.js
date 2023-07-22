@@ -23,6 +23,7 @@ const Login = () => {
   };
   return (
     <div className="container">
+      <h1 className="tituloLogin">LICORERIA LOS HERMANOS</h1>
       <div className="card">
         <h2 className="text">Inicio de sesion</h2>
         <form onSubmit={handleSubmit}>
